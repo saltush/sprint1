@@ -1,0 +1,32 @@
+.main {
+    padding: 10px; 
+    display: flex; 
+    justify-content: space-between; 
+    text-align: center; 
+    align-content: center; 
+    background-color: #6E001D;
+}
+
+.menu {
+    text-decoration: none;
+    color: #828383;
+}
+
+.main-container {
+    margin-top: 20px; 
+    padding-top: 20px; 
+    padding-bottom: 20px; 
+    background-color: #0abab5;
+}
+
+.table-td {
+    padding: 0; 
+    border: 1px solid #adadad;
+}
+
+.button {
+    padding: 7px; 
+    background-color: #6E001D; 
+    color: #fff; 
+    border: none;
+}
